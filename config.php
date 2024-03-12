@@ -12,5 +12,7 @@ return [
         'test_access_token' => '',
         'commission_rate'   => 0,
         'test_mode'         => true,
+        'accepted_countries'    => [],
+        'unaccepted_countries'  => [],
     ],
 ];
